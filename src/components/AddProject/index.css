@@ -1,0 +1,74 @@
+.add-project-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.add-project-heading {
+  font-family: "Playfair Display";
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #25282B;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.label {
+  font-family: "Nunito";
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #25282B;
+  padding-bottom: 5px;    
+}
+
+.input {
+  width: 300px;
+  height: 30px;
+  background-color: #ffffff;
+  border: 1px solid #E8ECF4;
+  border-radius: 8px;  
+}
+
+.description-input {
+  width: 300px;
+  height: 120px;
+  background-color: #ffffff;
+  border: 1px solid #E8ECF4;
+  border-radius: 8px;    
+}
+
+.add-button {
+  width: 85px;
+  height: 40px;
+  background-color: #FDC435;
+  border-radius: 8px;
+  border: 1px solid #FDC435;
+  text-align: center;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0em;
+  color: #25282B;
+}
+
+.projects-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 992px;
+}
+
+.projects-list-container {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}

@@ -1,0 +1,76 @@
+.home-container {
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+}
+
+.intro-container {
+    width: 486px;
+    height: 369px;
+}
+
+.role-heading {
+  font-family: "Nunito";
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FDC435;
+}
+
+.content-intro {
+  font-family: "Playfair Display";
+  font-size: 64px;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #333333;
+}
+
+.content-subtext {
+  font-family: "Nunito";
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #828282;
+}
+
+.buttons-container  {
+    display: flex;
+}
+
+.project-button {
+  width: 100px;
+  height: 40px;
+  border-radius: 8px;
+  margin-right: 8px;
+  background-color: #FDC435;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #25282B;
+  border: 2px solid #FDC435;
+}
+
+.linkedin-button {
+    width: 100px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: transparent;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #25282B;
+    border: 2px solid #25282B;  
+}
+
+.girl-image {
+  width: 450px;
+  height: 350px;
+  background-color: #FFC637;
+}
